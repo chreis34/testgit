@@ -1,3 +1,4 @@
 teste git
 este é um repositorio teste para ensinar como git funciona
-saiba mais no git 
+saiba mais no gi
+são paulo campeão brasileiro 
